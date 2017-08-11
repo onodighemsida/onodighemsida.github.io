@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+
+
+
+/* kommentaren här! */
+body{
+	background-image: url("../bilder/stitchthoo.gif");
+
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: Indie Flower;
+
+}
+
+
+a {
+	background-color: white;
+	padding: 10px;
+	border-radius: 10px;
+	transition: all 1s;
+	text-decoration: none;
+}
+
+a:hover{
+	background-color: pink;
+	border-radius: 0px;
+	padding: 30px;
+	font-size: 30px;
+	color: white;
+}
+
+.box{
+	width: 50%;
+	height: 30%;
+	box-shadow: 5px 5px 10px black;
+
+
+}
+
+button{
+	background-color: transparent;
+	padding: 2px solid;
+	color: white;
+	border: 2px solid #ee5555;
+	font-family: Indie Flower;
+	border-radius: 25px;
+	font-size: 20px;
+	transition: all 0.5s;
+}
+
+
+button:hover{
+	box-shadow: 5px 5px 10px black;
+
+}
+
+

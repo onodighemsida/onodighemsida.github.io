@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+
+h1{
+	color: black;
+	text-align: center;
+	font-size: 60px;
+	font-family: jolly lodger;
+}
+
+h2{
+	color: black;
+	text-align: center;
+	font-size: 50px;
+	font-family: jolly lodger;
+}
+
+h3{
+	color: black;
+	text-align: center;
+	font-size: 40px;
+	font-family: jolly lodger;
+}
+
+h4{
+	color: black;
+	font-size: 30px;
+	text-align: center;
+	font-family: jolly lodger;
+}
+
+h5{
+	color: black;
+	text-align: center;
+	font-family: Passero+One;
+}
+
+p{
+	color: black;
+	text-align: center;
+}
+
+
+
+html, body{
+	background-color: white;
+}
+
+
+.png{
+	width: 300px;
+	height: 200px;
+}
+
+#kattbild{
+	width: 300px;
+	height: 300px;
+	margin-left: 1000px;
+}
+
+#flygplan{
+	width: 400px;
+	height: 300px;
+	margin-left: 1050px;
+}
+
+.navbar-inverse{
+	background-color: #f0ec4d;
+}
+
+.navbar-inverse, navbar-brand{
+	color: black;
+	font-family: miltonian;
+	font-size: 20px;
+}
+
+#storre{
+	width: 400px;
+}
+
+ .centrering{
+	display:flex;
+	width: 100%;
+	justify-content: center;
+}
+
+
+a {
+	background-color: white;
+	padding: 10px;
+	border-radius: 10px;
+	transition: all 1s;
+	font-family: Indie Flower;
+}
+
+a:hover{
+	background-color: #f0ec4d;
+	border-radius: 0px;
+	padding: 30px;
+	font-size: 30px;
+	color: white;
+}
